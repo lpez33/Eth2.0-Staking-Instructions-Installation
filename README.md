@@ -40,7 +40,13 @@ sudo reboot (once installation is complete)
 
 
 
+Troubleshooting:
 
+SSD Drive
+#if SSD drive is not rocognized or failing to mount possible solution includes reformatting with the following format
+Mac: isk utility--->select disk--->erase----exFAT----GUID Partition Map
+
+Windows:....
 
 
 
